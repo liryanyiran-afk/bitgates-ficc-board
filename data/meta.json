@@ -1,0 +1,11 @@
+{
+  "fetchedAt": "2026-11-16T07:36:27.875Z",
+  "asOfTradingDay": "2026-11-12",
+  "asOfLabel": "截至 2026-11-12（FRED 交易日定数，非逐笔行情）",
+  "dgs10Latest": {
+    "date": "2026-11-12",
+    "value": 5.1
+  },
+  "gaps": [],
+  "stale": false
+}
