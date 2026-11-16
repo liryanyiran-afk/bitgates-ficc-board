@@ -1,5 +1,8 @@
-# FICC 利率看板 · 静态站
+# BitGates FICC 利率看板（公开页）
 
-- 站点：<https://liryanyiran-afk.github.io/bitgates-ficc-board/>
-- 本仓库只存放**构建产物**（`out/`），源码不在 GitHub（见 TradFi `ficc/README.md`）。
-- 由 `bash scripts/publish-member-github-pages.sh` 生成并推送，请勿手工编辑。
+**打开：** https://liryanyiran-afk.github.io/bitgates-ficc-board/
+
+港大比特盖茨学会 · 资产研究。本仓库只放构建产物（静态站），由维护者从源码构建上传。
+只使用 GitHub Pages 默认域名，**没有**绑定 www.bitgates.cn。
+
+更新：在源码仓执行 `bash scripts/publish-member-github-pages.sh`。
